@@ -11,9 +11,9 @@
     "supportsThemeVariants": true,
     "hiddenFromToolbox": false,
     "preconfiguredEntries": [{
-        "groupId": "32ff8197-6c0c-408d-a8af-f370abff16c1",
+        "groupId": "b58bc234-7b51-4bde-9568-457b524ba0f0",
         "group": {
-            "default": "PnP"
+            "default": "Advanced"
         },
         "title": {
             "default": "Modern Script Editor"
